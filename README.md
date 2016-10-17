@@ -1,2 +1,2 @@
 # HELLO-WORLD
-This is your first demo of github practical
+This is my first practical of "github" how to make an repository in there are number of branches
