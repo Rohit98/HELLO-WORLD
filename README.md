@@ -1,2 +1,2 @@
-# HELLO-WORLDhttps://github.com/Rohit98/HELLO-WORLD
+# HELLO-WORLD
 This is my first practical of "github" how to make an 
